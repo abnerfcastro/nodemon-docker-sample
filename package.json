@@ -1,0 +1,14 @@
+{
+  "name": "nodemon-docker",
+  "version": "1.0.0",
+  "description": "Simple Node.js app with Docker and nodemon.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Abner Castro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
